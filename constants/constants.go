@@ -1,5 +1,5 @@
 package constants
 
-const DBName = "inventory"
-const DBuser = "dinesh"
-const DBPassword = "Dinesh123"
+const DBName = ""
+const DBuser = ""
+const DBPassword = ""
